@@ -14,8 +14,9 @@
 
 ## 专业技能
 
-* 熟练使用 C++，MySQL，了解 Java、Python等编程语言
+* 熟练使用 C++，了解 Java、Python等编程语言
 * 掌握基础数据结构和算法的基本原理
+* 掌握数据工具Pandas、Numpy、Matplotlib、MySQL
 * 英语四六级已过
 
 ## 项目经历
